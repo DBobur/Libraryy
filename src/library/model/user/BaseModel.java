@@ -1,5 +1,4 @@
 package library.model.user;
 
-public class User {
-
+public class BaseModel {
 }

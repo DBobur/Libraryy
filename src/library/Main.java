@@ -1,2 +1,5 @@
-package library;public class Main {
+package library;
+
+public class Main {
+
 }
